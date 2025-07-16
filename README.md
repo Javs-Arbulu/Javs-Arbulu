@@ -32,8 +32,8 @@ Clean architecture, performance, and meaningful design are at the core of everyt
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javs-Arbulu&theme=chartreuse-dark&hide_border=true" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javs-Arbulu&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" width="210"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javs-Arbulu&theme=chartreuse-dark&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javs-Arbulu&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" width="340"/>
 </div>
 
 ---
