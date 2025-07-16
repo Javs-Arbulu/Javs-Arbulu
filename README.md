@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Javier  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Javier Arbulu  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F747FF&center=true&width=500&lines=Software+Engineer+-+Full-Stack+Developer;TypeScript+-+React+-NestJS+-+MongoDB+-+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F747FF&center=true&width=800&lines=Software+Engineer+-+FullStack+Developer;TypeScript+-+NodeJs+-+React+-+NestJS+-+MongoDB+-+MySQL+-+AI" alt="Typing SVG" />
 </p>
 
 ---
